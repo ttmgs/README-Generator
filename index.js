@@ -60,3 +60,14 @@ const questions = [
 function writeToFile(fileName, data) {
     return fs.writeFileSync(path.join(process.cwd(), fileName), data);
 }
+
+
+// function to initialize program
+    function init() {
+        inquirer.prompt(questions)
+        .then((inquirerResponses) => {
+          console.log("Generating README...");
+          writeToFile("README.md", generateMarkdown({...inquirerResponses}));
+        })
+
+}
