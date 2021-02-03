@@ -1,11 +1,4 @@
 ## README GENERATOR
 
-#Layout
-
-<TITLE>
-  <DESCRIPTION>
-    <USAGE>
-      <TEST>
-        <GITHUB USERNAME>
-          <EMAIL>
-  
+#VIDEO WALKTHROUGH LINK
+https://www.youtube.com/watch?v=qsAQuFhnnNk&feature=youtu.be
