@@ -3,13 +3,17 @@
 
 ## Snippet
      # Description
-     ;'this is a an example description'
+     'this is a an example description'
+     
      # Usage
-     ;
+     'usage input here'
+     
      # Test
-     ;test
+     ex. npm test
+     
      # GitHub Username
-     ;example123
+     example123
+     
      # Email
      example@gmail.com
 =======
