@@ -3,15 +3,15 @@
 
 ## Snippet
      # Description
-     ;
+     ;'this is a an example description'
      # Usage
      ;
      # Test
-     ;
+     ;test
      # GitHub Username
-     ;
+     ;example123
      # Email
-     
+     example@gmail.com
 =======
 
 
